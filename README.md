@@ -9,5 +9,7 @@ WordPress plugin that makes updating a Plugin or Theme from a Zip file easier. J
 1. Follow [these instructions](https://wpshout.com/quick-guides/install-plugin-zip-file-wordpress/) to upload the zip file on your site and activate it.
 1. Now, whenever you want to update a plugin, go to Plugins -> Add New -> Upload Plugin, and upload the new version of the plugin, and click "Install Now", as if it were a new plugin. Normally WordPress would give an error, saying the plugin already exists, but with this plugin activated, it will instead update the plugin.
 
+[Here is a video showing usage](https://drive.google.com/file/d/15R9MwsfqK5rjURxd3v1RplVLQQwTRqNf/view)
+
 
 

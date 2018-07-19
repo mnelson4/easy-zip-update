@@ -2,7 +2,7 @@
 /*
 Plugin Name: Easy Zip Update
 Plugin URI: https://cmljnelson.wordpress.com
-Description: Simplifies updating plugins and themes using a zip file. Once this plugin is active, to update a plugin, go to "Plugins", then "Add New", then "Upload Plugin". The uploaded plugin will be updated, no need to deactivate it, delete it, and reactivate it. Please note: this is BETA software. Use at your own risk.
+Description: Simplifies updating plugins and themes using a zip file. Once this plugin is active, to update a plugin, go to "Plugins", then "Add New", then "Upload Plugin". The uploaded plugin will be updated, no need to deactivate it, delete it, and reactivate it. Please note: this is BETA software. Use at your own risk. <a href="https://drive.google.com/file/d/15R9MwsfqK5rjURxd3v1RplVLQQwTRqNf/view">Video</a>
 Author: Mike Nelson
 Version: 0.1.1
 Author URI: https://cmljnelson.wordpress.com
